@@ -2,7 +2,6 @@
 
 - 🎓 An Undergraduate Student at **IIT Hyderabad**  
 - 💻 **Core** @ [LambdaIITH](https://github.com/LambdaIITH),
-- 📫 Reach me at [Ganeswar](ganeshvelvadapu@gmail.com)  
 
 ## 🛠️ Skills  
 
