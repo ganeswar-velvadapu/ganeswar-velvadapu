@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ganeswar Velvadapu
 
 - 🎓 An Undergraduate Student at **IIT Hyderabad**  
-- 💻 **Core** @ [LambdaIITH](https://github.com/LambdaIITH)
+- 💻 **Head** @ [LambdaIITH](https://github.com/LambdaIITH)
 
 ## 🛠️ Skills  
 
