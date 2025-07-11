@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ganeswar Velvadapu
+# Hi, I'm Ganeswar Velvadapu
 
 - 🎓 An Undergraduate Student at **IIT Hyderabad**  
 - 💻 **Head** @ [LambdaIITH](https://github.com/LambdaIITH)
