@@ -6,7 +6,7 @@
 ## 🛠️ Skills  
 
 **Languages:**  
-Python, C/C++, JavaScript, PostgreSQL, Dart  
+Python, C/C++, JavaScript, PostgreSQL, Dart, Go Lang
 
 **Frameworks:**  
-React/NEXT, Flutter, Express, FastAPI, Flask  
+React/NEXT, Flutter, Express, FastAPI, Flask, Go Gin
